@@ -1,0 +1,63 @@
+.github-link {
+    padding: 10px 0;
+    width: 320px;
+    border:2px solid #289449;
+    color: #cecdcd;
+    text-decoration: none;
+    border-radius: 10px;
+    transition: transform 0.3s;
+}
+
+.github-link:hover {
+    box-shadow: 0 7px 9px 0 rgba(66, 65, 65, 0.24), 0 8px 38px 0 rgba(58, 59, 59, 0.19);
+    transform: scale(1.2);
+    cursor: url(./assets/cursor.png), auto;
+}
+
+.youtube-link {
+    padding: 10px 0;
+    width: 320px;
+    border: 2px solid #af2020;
+    color: #cecdcd;
+    text-decoration: none;
+    border-radius: 10px;
+    transition: transform 0.3s;
+}
+
+.youtube-link:hover {
+    box-shadow: 0 10px 13px 0 rgba(112, 20, 20, 0.24), 0 10px 42px 0 rgba(107, 26, 26, 0.19);
+    transform: scale(1.2);
+    cursor: url(./assets/cursor.png), auto;
+}
+
+.instagram-link {
+    padding: 11px 0;
+    width: 320px;
+    border: 2px solid #a92dc2;
+    color: #cecdcd;
+    text-decoration: none;
+    border-radius: 10px;
+    transition: transform 0.3s;
+}
+
+.instagram-link:hover {
+    box-shadow: 0 9px 12px 0 rgba(126, 23, 109, 0.24), 0 10px 42px 0 rgba(80, 34, 59, 0.19);
+    transform: scale(1.2);
+    cursor: url(./assets/cursor.png), auto;
+}
+
+.linkedin-link{
+    padding: 11px 0;
+    width: 320px;
+    border: 2px solid #2a8dcf;
+    color: #cecdcd;
+    text-decoration: none;
+    border-radius: 10px;
+    transition: transform 0.3s;
+}
+
+.linkedin-link:hover {
+    box-shadow: 0 9px 12px 0 rgba(15, 60, 68, 0.24), 0 10px 42px 0 rgba(9, 52, 92, 0.19);
+    transform: scale(1.2);
+    cursor: url(./assets/cursor.png), auto;
+}
